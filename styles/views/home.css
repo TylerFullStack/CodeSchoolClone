@@ -1,0 +1,54 @@
+.home-page-header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.menu {
+    margin-right: 20px;
+}
+
+.home-page-intro-box {
+    width: 100%;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(to bottom, #21abc7,#616db3);
+}
+
+.intro-header-text {
+    font-size: 26px;
+    margin-bottom: 15px;
+    font-weight: 300;
+}
+
+.intro-text {
+    width: 80%;
+    margin: 0 auto 15px auto; 
+}
+
+.intro-button {
+    
+    font-size: 18px; 
+    padding: 15px;
+    background-color: #ffae1c;
+    border: 1px solod #ffae1c;
+    border-radius: 50px; 
+    color: #fff;
+    font-weight: 600; 
+  
+   
+    
+    
+}
+
+.top-of-page-video {
+    
+    
+    
+    
+}
